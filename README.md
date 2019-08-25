@@ -1,6 +1,4 @@
 # WeAllKnowWhichPageSauceGenerator
-```sh
-```
 ```
 WARNING: THIS SCRIPT IS +18 ONLY, JUST LIKE THE PAGE ITSELF.
 ```
