@@ -22,12 +22,14 @@ Currently there are 3 optional arguments avaliable:
  - `-h`  Returns list of available arguments.
  - `-n <number>` Number of links to generate, without this argument returns only one.
  - `-s` Returned URL's are shortened with tinyurl.
+ 
 # Contributing and Reuse
 Feel free to reuse this project in your own, just note mine as well! You can also try to contribute (if it makes sense).
 ### Disclaimer
 I'm not associated with Nhentai in any way. Logos, names and other are properties of their proper owners, i also do not take responsibility for any improper use of this script.
 ### Author Notes
  - This script is just a small side project, i may make something bigger out of this, but not related to nsfw...maybe on my official profile.
+ - Logo would be nice.
  - Feel free to use your own link shortener, just adapt it propertly. I found one contained here somewhere in the internet (I've been to lazy to make my own). Credits for it go to creators of  [this](https://pythontips.com/2013/08/03/a-url-shortener-in-python/) article.
  - God forgive me this.
 ### License
