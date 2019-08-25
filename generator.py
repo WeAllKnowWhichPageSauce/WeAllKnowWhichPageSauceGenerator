@@ -27,7 +27,7 @@ args = parser.parse_args()
 def mkurl(Shortening):              # <= Makes a url, may shorten it
     urlready = False
     while urlready != True:
-        url = ("""https://nhentai.com/g/""" + str(random.randint(1,269000)))
+        url = ("""https://www.nhentai.net/g/""" + str(random.randint(1,269000)))
         if urlcheck(url) != "404":
             urlready = True
         else:
