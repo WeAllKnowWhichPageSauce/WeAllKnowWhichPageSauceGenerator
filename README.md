@@ -8,8 +8,6 @@ WARNING: THIS SCRIPT IS +18 ONLY, JUST LIKE THE PAGE ITSELF.
   - Generates a url and checks if it's valid.
   - Can generate choosen number of URL's.
   - Can shorten generated URL's just in case.
-```sh
-```
 # Installation
 WAKWPSauceGenerator requires [Python 3.x](https://www.python.org/downloads/) to run. Simply download the repo using following git command.
 ```sh
@@ -24,8 +22,6 @@ Currently there are 3 optional arguments avaliable:
  - `-h`  Returns list of available arguments.
  - `-n <number>` Number of links to generate, without this argument returns only one.
  - `-s` Returned URL's are shortened with tinyurl.
-```
-```
 # Contributing and Reuse
 Feel free to reuse this project in your own, just note mine as well! You can also try to contribute (if it makes sense).
 ### Disclaimer
